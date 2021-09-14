@@ -1,0 +1,3 @@
+[submodule "myLinuxConfigs"]
+	path = myLinuxConfigs
+	url = https://github.com/CelticBoozer/myLinuxConfigs
